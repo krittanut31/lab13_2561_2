@@ -19,5 +19,9 @@ int main(){
 	showMatrix(B);
 	return 0;
 }
+void inputMatrix(double [][N]){
+	
+}
+
 
 // Write definition of inputMatrix(),matrixMultiply() and showMatrix() here
